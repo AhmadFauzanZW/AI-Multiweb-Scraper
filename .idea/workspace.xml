@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6434b55b-ee1e-4bce-ab2a-c37ee2ea78fb" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/scrape.py" afterDir="false" />
+    <list default="true" id="6434b55b-ee1e-4bce-ab2a-c37ee2ea78fb" name="Changes" comment="Add Parsing DATA function">
+      <change afterPath="$PROJECT_DIR$/parse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -85,11 +85,20 @@
       <option name="project" value="LOCAL" />
       <updated>1740191469079</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Parsing DATA function">
+      <option name="closed" value="true" />
+      <created>1740195782248</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740195782248</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Add Parsing DATA function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Parsing DATA function" />
   </component>
 </project>
